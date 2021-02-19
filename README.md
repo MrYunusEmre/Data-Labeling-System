@@ -6,7 +6,7 @@ Data labeling is the process of assigning one of the several predetermined label
 >Course Professor :  
 >>**Murat Can Ganiz**
 
->Engineers :  
+>Developers :  
 >>**Yunus Emre Ertunç**  
 >>**Muhammed Enes Aktürk**  
 >>**Mahmut Hilmi Arıkmert**  
